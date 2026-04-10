@@ -39,6 +39,11 @@ const styles = `
     to { transform: rotate(360deg); }
   }
 
+  @keyframes spin3d {
+    0% { transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); }
+    100% { transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg); }
+  }
+
   .fade-up-1 { animation: fadeUp 0.8s ease 0.1s both; }
   .fade-up-2 { animation: fadeUp 0.8s ease 0.3s both; }
   .fade-up-3 { animation: fadeUp 0.8s ease 0.5s both; }
@@ -292,7 +297,7 @@ const styles = `
     position: relative;
     transform-style: preserve-3d;
     transition: transform 0.25s ease;
-    animation: spin 14s linear infinite;
+    animation: spin3d 8s linear infinite;
     background:
       radial-gradient(circle at 30% 30%, rgba(200,166,88,0.14), transparent 58%),
       linear-gradient(135deg, rgba(200,166,88,0.06), rgba(255,255,255,0.01));
