@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "./static/js/main.50dde818.js",
+    "static/media/yasyayukthi.png": "./static/media/yasyayukthi.824931c9df27bd556381.png",
+    "static/media/thakkaram.png": "./static/media/thakkaram.f4b97831fa9df2e803b9.png",
+    "static/media/tharavadu.png": "./static/media/tharavadu.529db7768b25eac73ef5.png",
+    "static/media/book store.png": "./static/media/book store.ad2eb40e0ed86bea97ec.png",
+    "static/media/arsalan.png": "./static/media/arsalan.2292c22439f92c6bdb55.png",
+    "static/media/modern portfolio.png": "./static/media/modern portfolio.fadea477d7ca600df567.png",
+    "static/media/college library.png": "./static/media/college library.3029a8d0a18ea6709d06.png",
+    "static/media/Ashish Simon MAthew.pdf": "./static/media/Ashish Simon MAthew.39578f45ebf6399b62dd.pdf",
+    "static/media/rcube.png": "./static/media/rcube.dc5aca5eb74edee392b3.png",
+    "static/media/trivia.png": "./static/media/trivia.4bd16fc9c38dfecac870.png",
+    "static/media/2048.png": "./static/media/2048.6fb76851e1517fd77fcb.png",
+    "static/media/iedc.jpg": "./static/media/iedc.0369ec7c94f5eed450de.jpg",
+    "static/media/me.jpeg": "./static/media/me.7f4784af835c98dd2e95.jpeg",
+    "static/media/iste.jpg": "./static/media/iste.d348ebb1dbff38109c37.jpg",
+    "index.html": "./index.html",
+    "main.50dde818.js.map": "./static/js/main.50dde818.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.50dde818.js"
+  ]
+}
